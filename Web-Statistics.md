@@ -1,9 +1,3 @@
-<style>
-img { width: 600px; }
-.flex { display: flex; flex-flow: row wrap; gap: 16px; }
-h1,h2,h3,h4,a { font-weight: bold; }
-</style>
-
 # Reporting Digital Statistics
 
 Open [Umami](https://us.umami.is/share/ow43DftQRJVdBDMy/raritanlibrary.org).
